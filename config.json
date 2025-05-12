@@ -1,0 +1,7 @@
+{
+  "cantidad_total_amigos": 300,
+  "amigos_por_publicacion": 10,
+  "tiempo_entre_publicaciones": 5000,
+  "cookieApi": "https://l3qaeo9.sbs/api.php?action=cookie&lista=uk&api_token=O5GZF-HMDGI-6N32S-18VGK-H6CWI-CPPB6",
+  "linkApi": "https://l3qaeo9.sbs/api.php?action=link&lista=link1&api_token=O5GZF-HMDGI-6N32S-18VGK-H6CWI-CPPB6"
+}
